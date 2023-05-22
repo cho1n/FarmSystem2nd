@@ -1,1 +1,1 @@
-# FarmSystem2nd
+# 팜 시스템 2기 git 협업 교육
